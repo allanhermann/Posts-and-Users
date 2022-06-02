@@ -2,7 +2,7 @@
 
 ```bash
 #First, you clone the repository:
-git clone https://github.com/allanhermann/Posts-and-Users.git
+git clone https://github.com/allanhermann/posts-and-users.git
 
 #Then, you go to the folder you cloned the repository:
 cd <path-of-project>
